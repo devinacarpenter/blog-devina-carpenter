@@ -1,2 +1,2 @@
-# blog-devina-carpenter
+# devinacarpenter.github.io
 Blog in spanish.
